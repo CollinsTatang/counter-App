@@ -1,1 +1,1 @@
-# Mathematician-App
+# Counter-App
